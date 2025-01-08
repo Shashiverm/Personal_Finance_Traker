@@ -9,7 +9,7 @@ A modern expense tracking application to help manage your personal finances effe
 
 ## Links
 
-- 🚀 [Live Demo](https://personalfinnacetracker.netlify.app/login)
+- 🚀 [Live Demo](https://personalfinnacetracker.netlify.app/index)
 - 💻 [GitHub Repository](https://github.com/Shashiverm/Personal_Finance_Traker)
 - 🎥 [Video Demo](https://youtu.be/demo-link)
 
